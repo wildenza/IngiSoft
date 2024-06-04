@@ -1,0 +1,7 @@
+1. Ce este UML si pentru ce este utilizat ?
+A:UML este un limbaj de modelare standardizat si utilizat in domeniul ingineriei software(IS)
+Acesta este gestionat de catre OMG.
+Si include un set de tehnici de notari grafice pentru crearea unor reprezentari ilustrative/visuale ale unor sisteme de aplicatii
+
+2.Ce sunt modelele si care este utilizarea lor ?
+A:Modelele sunt acele notari grafice pentru reprezentarea vizuala a unor aplicatii, folosite pentru a intelege/descrie comportamentul acestora.
